@@ -16,4 +16,8 @@ command:
 composer require firebase/php-jwt
 u can also view this library from this repo : https://github.com/firebase/php-jwt
 
+now just replace the database and app folders woth your folders
+
+Additionally i have also used swagger in this project u can install it or ignore it and for its knowledge u can visit this link: https://github.com/DarkaOnLine/L5-Swagger
+
 
